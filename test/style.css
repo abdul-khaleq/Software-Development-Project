@@ -1,0 +1,31 @@
+/* Carousel section  */
+
+.slide-body h2 {
+    color: #1E046A;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 32px;
+}
+
+.slide-body h3 {
+    color: #000;
+    font-size: 96px;
+    font-weight: 400;
+    line-height: 72px;
+    letter-spacing: -0.96px;
+}
+
+.custom-button {
+    background-color: #171495;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 900;
+    line-height: 24px;
+    padding: 10px 48px;
+}
+.carousel-img{
+    margin-top: 20px;
+    width: 100%;
+    width: 100%;
+    margin-bottom: -70%;
+}

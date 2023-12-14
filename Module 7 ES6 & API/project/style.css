@@ -1,0 +1,29 @@
+.search-box{
+    padding: 50px;
+    text-align: center;
+}
+.search-field{
+    padding: 10px 20px;
+}
+#search-btn{
+    padding: 10px 20px;
+    border: none;
+    background-color: rgb(144, 144, 186);
+}
+#meals-container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: space-around;
+}
+.box{
+    width: 300px;
+    height: 400px;
+    border: 1px solid gray;
+    /* padding: 10px; */
+    text-align: center;
+}
+.card-img{
+    width: 300px;
+    height: 300px;
+}
